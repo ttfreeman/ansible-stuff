@@ -1,0 +1,4 @@
+all:
+  azure-vms:
+    hosts:
+      137.117.14.75
